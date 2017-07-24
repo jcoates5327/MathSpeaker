@@ -1,0 +1,420 @@
+// operators
+!,!:exclamation mark
+#,#:number sign
+$,$:dollar sign
+%,%:percent sign
+^,^:carat
+&,&:ampersand
+*,*:asterisk
+(,(:left paren
+),):right paren
+-,-:dash
++,+:plus
+=,=:equals
+@,@:at sign
+_,_:underscore
+/,/:slash
+[,[:left bracket
+],]:right bracket
+{,{:left curly bracket
+},}:right curly bracket
+|,|:vertical bar
+;,;:semicolon
+',':apostrophe
+",":quotation mark
+\,\:back slash
+<,<:less than
+>,>:greater than
+.,.:point
+?,?:question mark
+~,~:tilde
+`,`:grave accent
+
+// functions
+sin,sin:sine
+cos,cos:cosine
+tan,tan:tangent
+csc,csc:co secant
+sec,sec:secant
+cot,cot:cotangent
+sinh,sinh:hyperbolic sine
+cosh,cosh:hyperbolic cosine
+tanh,tanh:hyperbolic tangent
+sech,sech:hyperbolic secant
+csch,csch:hyperbolic cosecant
+coth,coth:hyperbolic cotangent
+arcsin,arcsin:arc sine
+arccos,arccos:arc cosine
+arctan,arctan:arc tangent
+arccsc,arccsc:arc cosecant
+arcsec,arcsec:arc secant
+arccot,arccot:arc cotangent
+
+ln,ln:l n
+log,log:log
+int,int:int
+min,min:min
+max,max:max
+Max,Max:Max
+lim,lim:lim
+exp,exp:exponential
+error,error:error
+fl,fl:f l
+hex,hex:hex
+Real,Real:Real
+Imaginary,Imaginary:Imaginary
+nmax,nmax:n max
+det,det:determinant
+Sup,sup:supremum
+pH,ph:p h
+cis,cis:c i s
+gcd,gcd:g c d
+lmc,lcm:l c m
+mod,mod:mod
+rad,rad:rad
+
+// Unicode
+3000,3000:blank
+000A,000A:new line
+00A6,¦:dashed vertical bar
+00AF,¯:over bar
+0021,!:factorial
+0023,#:number sign
+0024,$:dollar sign
+0025,%:percent
+0026,&:ampersand
+0028,(:left paren
+0029,):right paren
+002A,*:asterisk
+002B,+:plus
+002D,-:minus
+002F,/:slash
+003C,<:less than
+003D,=:equals
+003E,>:greater than
+0040,@:at symbol
+005b,[:left bracket
+005C,\:reverse slash
+005D,]:right bracket
+005E,^:hat
+005F,_:underscore
+0060,`:back tick
+007B,{:left curly bracket
+007C,|:vertical bar
+007D,}:right curly bracket
+007E,~:tilde
+00A2,¢:cent sign
+00A3,£:pound sign
+00A5,¥:yen sign
+00B0,°:degree sign
+00B1,±:plus or minus
+00BF,¿:inverted question mark
+003E,>:greater than
+00D7,×:multiplication sign
+00F0,ð:eth
+02DC,˜:tilde
+0391,Α:Upper Alpha
+0392,Β:Upper Beta
+0393,Γ:Upper Gamma
+0394,Δ:Upper Delta
+0395,Ε:Upper Epsilon
+0396,Ζ:Upper Zeta
+0397,Η:Upper Eta
+0398,Θ:Upper Theta
+0399,Ι:Upper Iota
+039A,Κ:Upper Kappa
+039B,Λ:Upper Lamda
+039C,Μ:Upper Mu
+039D,Ν:Upper Nu
+039E,Ξ:Upper Xi
+039F,Ο:Upper Omicron
+03A0,Π:Upper Pi
+03A1,Ρ:Upper Rho
+03A3,Σ:Upper Sigma
+03A4,Τ:Upper Tau
+03A5,Υ:Upper Upsilon
+03A6,Φ:Upper Phi
+03A7,Χ:Upper Chi
+03A8,Ψ:Upper Psi
+03A9,Ω:Upper Omega
+03B1,α:Alpha
+03B2,β:Beta
+03B3,γ:Gamma
+03B4,δ:Delta
+03B5,ε:Epsilon
+03B6,ζ:Zeta
+03B7,η:Eta
+03B8,θ:Theta
+03B9,ι:Iota
+03BA,κ:Kappa
+03BB,λ:Lamda
+03BC,μ:Mu
+03BD,ν:Nu
+03BE,ξ:Xi
+03BF,ο:Omicron
+03C0,π:Pi
+03C1,ρ:Rho
+03C2,ς:Final Sigma
+03C3,σ:Sigma
+03C4,τ:Tau
+03C5,υ:Upsilon
+03C6,φ:Phi
+03C7,χ:Chi
+03C8,ψ:Psi
+03C9,ω:Omega
+03CF,Ϗ:Upper Kai
+03D0,ϐ:Beta
+03D1,ϑ:Theta
+03D5,ϕ:Phi
+03D7,ϗ:Kai
+03F0,ϰ:Kappa
+03F1,ϱ:Rho
+00A2,¢:cent sign
+00A3,£:pound sign
+00A5,¥:yen sign
+00A8,¨:double dot
+00B0,°:degree sign
+00B1,±:plus minus
+00B7,·:middle dot operator
+00BC,¼:vulgar fraction one quarter
+00BD,½:vulgar fraction one half
+00BE,¾:vulgar fraction three quarters
+00D7,×:multiplication sign
+00F7,÷:division sign
+2013,–:dash
+2014,—:dash
+2016,‖:double vertical bar
+2020,†:dagger
+2021,‡:double dagger
+2022,•:bullet
+2026,…:horizontal ellipsis
+2032,′:prime
+2033,″:double prime
+2034,‴:triple prime
+2038,‸:caret
+2057,⁗:quadruple prime
+20A9,￦:won sign
+2102,ℂ:double struck upper C
+210A,ℊ:script g
+210B,ℋ:script upper H
+210C,ℌ:black-letter upper H
+210D,ℍ:double struck upper H
+2110,ℐ:script upper I
+2111,ℑ:black-letter upper I
+2112,ℒ:script upper L
+2113,ℓ:script l
+2115,ℕ:double struck upper N
+2118,℘:script upper P
+2119,ℙ:double struck upper P
+211A,ℚ:double struck upper Q
+211B,ℛ:script upper R
+211C,ℜ:black-letter upper R
+211D,ℝ:double struck upper R
+2124,ℤ:double struck upper Z
+2126,Ω:upper omega
+2127,℧:upper upsilon
+2128,ℨ:black-letter upper Z
+212C,ℬ:script upper B
+212D,ℭ:black-letter upper C
+212F,ℯ:script e
+2130,ℰ:script upper E
+2131,ℱ:script upper F
+2133,ℳ:script upper M
+2134,ℴ:script o
+2135,ℵ:alef
+2145,ⅅ:double struck upper D
+2146,ⅆ:double struck d
+2147,ⅇ:double struck e
+2148,ⅈ:double struck i
+2149,ⅉ:double struck j
+2190,←:left arrow
+2191,↑:upward arrow
+2192,→:right arrow
+2193,↓:downward arrow
+2194,↔:left right arrow
+2195,↕:up down arrow
+2196,↖:north west arrow
+2197,↗:north east arrow
+2198,↘:south east arrow
+2199,↙:south west arrow
+219A,↚:left arrow with strike through
+219B,↛:right arrow with strike through
+219C,↜:left wave arrow
+219D,↝:right wave arrow
+219E,↞:left two headed arrow
+219F,↟:upward two headed arrow
+21A0,↠:right two headed arrow
+21A1,↡:downward two headed arrow
+21A2,↢:left arrow with tail
+21A3,↣:right arrow with tail
+21A4,↤:left arrow from bar
+21A5,↥:upward arrow from bar
+21A6,↦:right arrow from bar
+21A7,↧:downward arrow from bar
+21A8,↨:up down arrow with base
+21A9,↩:left arrow with hook
+21AA,↪:right arrow with hook
+21AB,↫:left arrow with loop
+21AC,↬:right arrow with loop
+21BC,↼:left harpoon with barb upwards
+21BD,↽:left harpoon with barb downwards
+21BE,↾:upwards harpoon with barb right
+21BF,↿:upwards harpoon with barb left
+21C0,⇀:right harpoon with barb upwards
+21C1,⇁:right harpoon with barb downwards
+21C2,⇂:downwards harpoon with barb right
+21C3,⇃:downwards harpoon with barb left
+21C4,⇄:right arrow over left arrow
+21C5,⇅:upwards arrow left of downwards arrow
+21C6,⇆:left arrow over right arrow
+21C7,⇇:left paired arrows
+21C8,⇈:upwards paired arrows
+21C9,⇉:right paired arrows
+21CA,⇊:downwards paired arrows
+21CB,⇋:left harpoon over right harpoon
+21CC,⇌:right harpoon over left harpoon
+21CD,⇍:left double arrow with strike through
+21CE,⇎:left right double arrow with strike through
+21CF,⇏:right double arrow with strike through
+21D0,⇐:left double arrow
+21D1,⇑:upwards double arrow
+21D2,⇒:right double arrow
+21D3,⇓:downwards double arrow
+21D4,⇔:left right double arrow
+21D5,⇕:up down double arrow
+21D6,⇖:north west double arrow
+21D7,⇗:north east double arrow
+21D8,⇘:south east double arrow
+21D9,⇙:south west double arrow
+21DA,⇚:left triple arrow
+21DB,⇛:right triple arrow
+2202,∂:partial differential
+2205,∅:empty set
+2207,∇:gradient
+2208,∈:element of
+2209,∉:not an element of
+220F,∏:n-ary product
+2211,∑:summation
+2212,-:minus
+2215,/:slash
+2217,∗:asterisk
+2218,∘:ring operator
+2219,∙:bullet operator
+221E,∞:infinity
+2220,∠:angle
+2221,∡:measured angle
+2223,∣:divides
+2224,∤:does not divide
+2225,∥:parallel to
+2227,∧:logical and
+2228,∨:logical oar
+2229,∩:intersection
+222A,∪:union
+222B,∫:integral
+222C,∬:double integral
+222D,∭:triple integral
+222E,∮:contour integral
+2234,∴:therefore
+223C,∼:tilde
+2245,≅:approximately equal to
+2248,≈:almost equal to
+225F,≟:questioned equal to
+2260,≠:not equal to
+2261,≡:congruent to
+2263,≣:strictly equivalent to
+2264,≤:less than or equal to
+2265,≥:greater than or equal to
+2266,≦:less than or equal to
+2267,≧:greater than or equal to
+2282,⊂:subset of
+2284,⊄:not a subset of
+2286,⊆:subset of or equal to
+2288,⊈:not a subset of or equal to
+2299,⊙:circled dot operator
+22C5,·:dot operator
+22EE,⋮:vertical ellipsis
+22EF,⋯:midline horizontal ellipsis
+22F0,⋰:up right diagonal ellipsis
+22F1,⋱:down right diagonal ellipsis
+2308,⌈:left ceiling
+2309,⌉:right ceiling
+230A,⌊:left floor
+230B,⌋:right floor
+2322,⌢:frown
+2329,〈:left angle bracket
+232A,〉:right angle bracket
+23B4,⎴:vertical left bracket
+23B5,⎵:vertical right bracket
+23DC,⏜:vertical left paren
+23DD,⏝:vertical right paren
+23DE,⏞:vertical left brace
+23DF,⏟:vertical right brace
+25B3,△:white upward pointing triangle
+2460,①:circled digit one
+2461,②:circled digit two
+2462,③:circled digit three
+2463,④:circled digit four
+2464,⑤:circled digit five
+25A1,□:white square
+25C7,◇:white diamond
+25CB,○:white circle
+25CF,●:black circle
+2605,★:black star
+2606,☆:white star
+2610,☐:empty box
+2713,✓:check mark
+2715,✕:multiplication x
+27EA,⟪:left double angle bracket
+27EB,⟫:right double angle bracket
+27E6,⟦:left double bracket
+27E7,⟧:right double bracket
+27E8,⟨:left angle bracket
+27E9,⟩:right angle bracket
+2A7B,⩻:less than with question mark above
+2A7C,⩼:greater than with question mark above
+2B1C,⬜:large white square
+2E2A,⸪:because
+2E2B,⸫:therefore
+3008,〈:left angle bracket
+3009,〉:right angle bracket
+300A,《:left double angle bracket
+300B,》:right double angle bracket
+301A,〚:left double bracket
+301B,〛:right double bracket
+FE35,︵:vertical left paren
+FE36,︶:vertical right paren
+FE37,︷:top brace
+FE38,︸:bottom brace
+FE47,﹇:vertical left bracket
+FE48,﹈:vertical right bracket
+FE3D,︽:top double angle bracket
+FE3E,︾:bottom double angle bracket
+FE3F,︿:top angle bracket
+FE30,﹀:bottom angle bracket
+FF01,!:factorial
+FF04,$:dollar sign
+FF05,%:percent
+FF06,&:ampersand
+FF08,(:left paren
+FF09,):right paren
+FF0A,*:asterisk
+FF0B,+:plus
+FF0D,-:minus
+FF0F,/:slash
+FF1C,<:less than
+FF1D,=:equals
+FF1E,>:greater than
+FF1F,？:question mark
+FF3B,[:left bracket
+FF3C,\:reverse slash
+FF3D,]:right bracket
+FF5C,|:vertical bar
+FF3F,_:underscore
+FF5B,{:left brace
+FF5D,}:right brace
+FF5E,~:tilde
+FFE0,￠:cent sign
+FFE1,￡:pound sign
+FFE5,￥:yen sign
+FFE6,￦:won sign
+1D540,𝕀:double struck upper i
